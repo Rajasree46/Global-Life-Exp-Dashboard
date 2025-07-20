@@ -19,4 +19,3 @@ This dashboard provides a visual analysis of global life expectancy, GDP per cap
 ## Objective:
 To explore the relationship between life expectancy and socio-economic factors like income, GDP, and population trends worldwide.
 
-
