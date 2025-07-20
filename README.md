@@ -2,7 +2,6 @@
 
 ![Dashboard Screenshot](Global-Life-Expectancy-Screenshot.png)
 
-# Global Life Expectancy & Development Overview (Tableau Dashboard)
 
 This dashboard provides a visual analysis of global life expectancy, GDP per capita, population, and development indicators across countries and years.
 
