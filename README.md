@@ -2,13 +2,22 @@
 
 ![Dashboard Screenshot](Global-Life-Expectancy-Screenshot.png)
 
-## About
-This Tableau dashboard visualizes global life expectancy alongside GDP per capita and schooling levels. It includes:
+# Global Life Expectancy & Development Overview (Tableau Dashboard)
 
-- KPIs for average values
-- Regional comparison bar charts
-- Country-level scatter plot and distribution visuals
+This dashboard provides a visual analysis of global life expectancy, GDP per capita, population, and development indicators across countries and years.
 
-## How to View
-- Download `Global Life Expectancy & Development Overview.twbx`
-- Open in Tableau Desktop or Tableau Public
+## Features:
+- Life Expectancy by Country and Year  
+- GDP per Capita Comparison  
+- Population Insights  
+- Income Level and Region Filters  
+- Interactive Bubble & Line Charts  
+
+## Tools Used:
+- Tableau  
+- CSV Dataset 
+
+## Objective:
+To explore the relationship between life expectancy and socio-economic factors like income, GDP, and population trends worldwide.
+
+
